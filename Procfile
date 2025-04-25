@@ -1,0 +1,1 @@
+web: java -jar target/ProyectPizza-1.0.jar
